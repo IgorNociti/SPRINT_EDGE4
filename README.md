@@ -14,6 +14,8 @@ Pedro Paulo Sabino / 559578
 🌐 Links importantes
 Link do projeto:https://wokwi.com/projects/430794778167271425
 
+LInk para fotos do fluxo no node-red: https://drive.google.com/drive/folders/1R1nPRc_k4xYg9B6qtCA5WrB7as16ihcp?usp=sharing
+
 Link do fluxo: https://drive.google.com/file/d/17upG4X8If0Y2ILsTFLNYz_4If1Z_bGPC/view?usp=sharing
 
 Link do vídeo demonstrativo: (se tiver, coloque aqui)
