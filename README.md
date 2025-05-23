@@ -18,7 +18,7 @@ LInk para fotos do fluxo no node-red: https://drive.google.com/drive/folders/1R1
 
 Link do fluxo: https://drive.google.com/file/d/17upG4X8If0Y2ILsTFLNYz_4If1Z_bGPC/view?usp=sharing
 
-Link do vídeo demonstrativo: (se tiver, coloque aqui)
+Link do vídeo demonstrativo:https://youtu.be/EbMnN7T_BNk
 
 📋 Descrição do Projeto
 Esse projeto utiliza um ESP32 conectado a um display LCD I2C para receber pedidos via MQTT através do aplicativo MyMQTT no celular. O sistema permite que o usuário informe o número do quarto e selecione o tipo de pedido (mamadeira, chamar médico ou pedir remédio) remotamente.
